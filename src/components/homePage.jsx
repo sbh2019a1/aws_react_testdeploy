@@ -82,19 +82,19 @@ class HomePage extends Component {
         </div>
         <div class="btn-group-vertical" style={div_style_4}>
           <button type="button" class="btn btn-secondary">
-            전자기기
+            1. 전자기기
           </button>
           <button type="button" class="btn btn-secondary">
-            패션잡화
+            2. 패션잡화
           </button>
           <button type="button" class="btn btn-secondary">
-            화장품/미용
+            3. 화장품/미용
           </button>
           <button type="button" class="btn btn-secondary">
-            디지털/가전
+            4. 디지털/가전
           </button>
           <button type="button" class="btn btn-secondary">
-            가구/인테리어
+            5. 가구/인테리어
           </button>
         </div>
       </div>
